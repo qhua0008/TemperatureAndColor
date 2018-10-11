@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>855761957873-526157bfqtuldpd5j9bgrrl001jrma3a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.855761957873-526157bfqtuldpd5j9bgrrl001jrma3a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDbdm9ct9KM73ktQ6ocmEv4n75XyX5U10s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>855761957873</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aditimukhopadhyay.Weather-Color</string>
+	<key>PROJECT_ID</key>
+	<string>fit5140-assignment02-1e1a1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fit5140-assignment02-1e1a1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:855761957873:ios:348fae8efd776142</string>
+	<key>DATABASE_URL</key>
+	<string>https://fit5140-assignment02-1e1a1.firebaseio.com</string>
+</dict>
+</plist>
